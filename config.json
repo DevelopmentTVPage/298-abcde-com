@@ -1,0 +1,15 @@
+{
+    "title": "Empty Project Never Get auto refreshed",
+    "baseURL": "https:\/\/abcde.com\/fghi",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/fghi",
+        "firstpartycookies": true,
+        "cookiedomain": "abcde.com"
+    }
+}
